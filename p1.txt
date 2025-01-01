@@ -2,12 +2,5 @@ hello world
 my name is rocky
 stashing is started 1
 stashing is started
-<<<<<<< HEAD
 stashing started again
 adaponga daa
-<<<<<<< HEAD
-=======
-
->>>>>>> parent of aca48cf (adaponga daa)
-=======
->>>>>>> 75e18e0 (adaponga daa dai)
