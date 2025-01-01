@@ -1,2 +1,6 @@
 hello world
 my name is rocky
+<<<<<<< Updated upstream
+=======
+stashing is started 1
+>>>>>>> Stashed changes
